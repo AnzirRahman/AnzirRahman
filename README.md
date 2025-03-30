@@ -24,6 +24,11 @@ Here are some of my favorite projects:
 
 ---
 
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnzirRahman&show_icons=true&theme=radical)  
+
+---
+
 ### 🔥 Fun Fact
 I thrive on challenges and love creating projects that push the boundaries of efficiency and creativity. 🚀  
 
