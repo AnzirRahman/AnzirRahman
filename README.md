@@ -9,7 +9,6 @@ I'm a curious coder and passionate problem-solver who loves crafting innovative 
 - 🔭 **Current Endeavors:** Exploring cutting-edge technologies and enhancing my skills while contributing to open-source projects.  
 - 🌱 **Learning Journey:** Diving deep into **Advanced Jupyter Notebooks** and **Dart** for mobile app development.  
 - 💬 **Let's Chat About:** Coding, project collaboration, and Jupyter Notebooks!  
-- 📫 **Reach Me At:** [Your Email or Social Media Links]  
 
 ---
 
