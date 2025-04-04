@@ -4,11 +4,11 @@ Hi there! I'm **Anzir Rahman Khan** 👋
 ---
 
 ### 💡 About Me
-I'm a curious coder and passionate problem-solver who loves crafting innovative solutions. Here's a bit about me:
+I'm a curious researcher and passionate problem-solver who loves crafting innovative solutions. Here's a bit about me:
 
 - 🔭 **Current Endeavors:** Exploring cutting-edge technologies and enhancing my skills while contributing to open-source projects.  
 - 🌱 **Learning Journey:** Diving deep into **Advanced Jupyter Notebooks** and **Dart** for mobile app development.  
-- 💬 **Let's Chat About:** Coding, project collaboration, and Jupyter Notebooks!  
+- 💬 **Let's Chat About:** Research, project collaboration, and Jupyter Notebooks!  
 
 ---
 
