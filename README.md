@@ -6,8 +6,8 @@ Hi there! I'm **Anzir Rahman Khan** 👋
 ### 💡 About Me
 I'm a curious researcher and passionate problem-solver who loves crafting innovative solutions. Here's a bit about me:
 
-- 🔭 **Current Endeavors:** Exploring cutting-edge technologies and enhancing my skills while contributing to open-source projects.  
-- 🌱 **Learning Journey:** Diving deep into **Advanced Jupyter Notebooks** and **Dart** for mobile app development.  
+- 🔭 **Current Endeavors:** Working as a junior researcher in NLP,ML and MAARS lab at DIU. Also exploring cutting-edge technologies and enhancing my skills while contributing to open-source projects.  
+- 🌱 **Learning Journey:** **Research topic** includes **Bias Metigation**, **Fair Data Generation**, **Class imbalance** and many more!.  Also diving deep into **Advanced Jupyter Notebooks** and **Dart** for mobile app development.  
 - 💬 **Let's Chat About:** Research, project collaboration, and Jupyter Notebooks!  
 
 ---
